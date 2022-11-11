@@ -1,0 +1,12 @@
+h6 {
+    display: block;
+    text-align: center;
+    margin-top: 550px;
+    background-color: beige;
+    padding: 0%;
+    text-align: end;
+}
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: #F0EAD6;
+}
